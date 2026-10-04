@@ -6,10 +6,8 @@ payment modes, and regional performance.
 
 ## 📸 Dashboard Preview
 
-![E-Commerce Sales Dashboard](E-Commerce-Sales-Dashboard.png)
+![E-Commerce Sales Dashboard](https://github.com/Veerpal-gill/E-Commerce-Sales-Dashboard-Power-BI/blob/755802614d6964868bd3beff36c8472b5c86e0d7/E-commerce%20dashboard2.png)
 
-https://github.com/Veerpal-gill/E-Commerce-Sales-Dashboard-Power-BI/blob/main/E-comerce%20sale%20%26%20profit%20dashboard.pbix
-![American Coffee Shop Sales Dashboard](American%20coffee%20dashboard.png)
 
 ## 🎯 Project Overview
 
