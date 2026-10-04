@@ -8,6 +8,9 @@ payment modes, and regional performance.
 
 ![E-Commerce Sales Dashboard](E-Commerce-Sales-Dashboard.png)
 
+
+![American Coffee Shop Sales Dashboard](American%20coffee%20dashboard.png)
+
 ## 🎯 Project Overview
 
 This project transforms raw e-commerce transaction data
